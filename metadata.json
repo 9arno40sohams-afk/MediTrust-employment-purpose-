@@ -1,0 +1,6 @@
+{
+  "name": "MediTrust Careers - Employment Application Portal",
+  "description": "Official employment application portal for MediTrust online medicine platform, hiring talent across IT and Marketing sectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
